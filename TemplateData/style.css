@@ -2,8 +2,10 @@ body {
   padding: 0;
   margin: 0;
 }
+
 #unity-container {
   position: absolute;
+  overflow: hidden;
 }
 #unity-container.unity-desktop {
   left: 50%;
